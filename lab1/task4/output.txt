@@ -1,0 +1,11 @@
+path: ./dir1
+file1.txt 0
+file2.txt 2
+path: ./dir2
+file3.txt 42
+path: ./dir2/dir3
+file5.txt 9
+path: ./dir2/dir3/dir4
+path: ./dir2/dir3/dir4/dir5
+sth1.txt 0
+file4.txt 6
